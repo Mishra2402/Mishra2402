@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+This is a side profile of mysticalseeker24.
+To contact me : https://github.com/mysticalseeker24
+
 <!--
 **Mishra2402/Mishra2402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
